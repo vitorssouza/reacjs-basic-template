@@ -19,6 +19,12 @@ git clone https://github.com/vitorssouza/reacjs-basic-template.git
 yarn install ou npm install
 ```
 
+###### Para iniciar o projeto
+
+```bash
+yarn start
+```
+
 ## Estrutura do projeto
 
 ```
